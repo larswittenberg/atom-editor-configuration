@@ -1,0 +1,24 @@
+"*":
+  core:
+    disabledPackages: [
+      "wrap-guide"
+    ]
+    projectHome: "/Users/lars.wittenberg/websites"
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "cobalt2-syntax"
+    ]
+  editor:
+    fontFamily: "Hack"
+    fontSize: 15
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "555d0d3d-6058-4b8c-ba94-fb1ae803276e"
+  "seti-ui":
+    compactView: true
+    disableAnimations: true
+    themeColor: "Steel"
+  welcome:
+    showOnStartup: false
