@@ -1,1 +1,5 @@
-# atom-editor-configuration
+# Atom Editor Configuration
+
+## Installed Packages
+
+## Installed Themes
