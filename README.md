@@ -13,6 +13,7 @@
 * emmet
 * language-babel
 * language-mjml
+* file-icons
 
 
 ## Installed Themes
