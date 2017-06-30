@@ -19,3 +19,7 @@
 ## Installed Themes
 * cobalt2-syntax
 * seti-ui
+
+
+## Check later
+* https://atom.io/packages/sync-settings
