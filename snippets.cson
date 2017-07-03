@@ -33,3 +33,12 @@
   'Console Log':
     'prefix': 'con'
     'body': 'console.log($1);'
+
+'.source.php':
+  'print_r':
+    'prefix': 'pre'
+    'body': """
+      echo '<pre>';
+      print_r($1);
+      echo '</pre>';
+    """
