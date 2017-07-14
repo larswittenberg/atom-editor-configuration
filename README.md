@@ -13,12 +13,13 @@
 * emmet
 * language-babel
 * language-mjml
+* mjml-preview
 * file-icons
 
 
 ## Installed Themes
 * cobalt2-syntax
-* seti-ui
+* ~~seti-ui~~
 
 
 ## Check later
