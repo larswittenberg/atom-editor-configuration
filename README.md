@@ -7,7 +7,9 @@
 [Hack | A typeface designed for source code](http://sourcefoundry.org/hack/)
 
 
-## Installed Packages
+## Packages
+
+### Installed Community Packages
 * atom-wrap-in-tag
 * editorconfig
 * emmet
@@ -17,9 +19,12 @@
 * file-icons
 
 
-## Installed Themes
+## Themes
+* UI Theme: One Dark
+* Syntax Theme: Cobalt 2
+
+### Installed Community Themes
 * cobalt2-syntax
-* ~~seti-ui~~
 
 
 ## Check later
