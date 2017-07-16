@@ -13,6 +13,7 @@
 * atom-wrap-in-tag
 * editorconfig
 * emmet
+* language-apache
 * language-babel
 * language-mjml
 * mjml-preview
