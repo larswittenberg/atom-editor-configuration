@@ -13,11 +13,12 @@
 * atom-wrap-in-tag
 * editorconfig
 * emmet
+* file-icons
 * language-apache
 * language-babel
 * language-mjml
 * mjml-preview
-* file-icons
+
 
 
 ## Themes
