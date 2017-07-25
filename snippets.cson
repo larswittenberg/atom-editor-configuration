@@ -29,6 +29,33 @@
       }
     """
 
+'.source.scss':
+  'Breakpoint Mixin MD':
+    'prefix': 'mqmd'
+    'body': """
+      @include breakpoint(md) {
+        $1
+      }
+    """
+
+'.source.scss':
+  'Breakpoint Mixin LG':
+    'prefix': 'mqlg'
+    'body': """
+      @include breakpoint(lg) {
+        $1
+      }
+    """
+
+'.source.scss':
+  'Breakpoint Mixin XL':
+    'prefix': 'mqxl'
+    'body': """
+      @include breakpoint(xl) {
+        $1
+      }
+    """
+
 '.source.js':
   'Console Log':
     'prefix': 'con'
