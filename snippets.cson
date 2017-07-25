@@ -28,8 +28,6 @@
         $2
       }
     """
-
-'.source.scss':
   'Breakpoint Mixin MD':
     'prefix': 'mqmd'
     'body': """
@@ -37,8 +35,6 @@
         $1
       }
     """
-
-'.source.scss':
   'Breakpoint Mixin LG':
     'prefix': 'mqlg'
     'body': """
@@ -46,8 +42,6 @@
         $1
       }
     """
-
-'.source.scss':
   'Breakpoint Mixin XL':
     'prefix': 'mqxl'
     'body': """
@@ -56,10 +50,12 @@
       }
     """
 
+
 '.source.js':
   'Console Log':
     'prefix': 'con'
     'body': 'console.log($1);'
+
 
 '.source.php':
   'print_r':
