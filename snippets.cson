@@ -21,11 +21,25 @@
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
 
 '.source.scss':
-  'Breakpoint Mixin':
+  'Breakpoint Mixin Empty':
     'prefix': 'mq'
     'body': """
       @include breakpoint($1) {
         $2
+      }
+    """
+  'Breakpoint Mixin SM':
+    'prefix': 'mqsm'
+    'body': """
+      @include breakpoint(sm) {
+        $1
+      }
+    """
+  'Breakpoint Mixin SL':
+    'prefix': 'mqsl'
+    'body': """
+      @include breakpoint(sl) {
+        $1
       }
     """
   'Breakpoint Mixin MD':
