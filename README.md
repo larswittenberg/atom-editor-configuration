@@ -17,6 +17,7 @@
 * language-apache
 * language-babel
 * language-mjml
+* markdown-preview-plus
 * mjml-preview
 
 
