@@ -19,6 +19,7 @@
 * language-mjml
 * markdown-preview-plus
 * mjml-preview
+* atom-jade
 
 
 
