@@ -20,6 +20,9 @@
 * markdown-preview-plus
 * mjml-preview
 * atom-jade
+* highlight-selected
+* atom-beautify
+* docblockr
 
 
 
