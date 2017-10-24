@@ -23,6 +23,7 @@
 * highlight-selected
 * atom-beautify
 * docblockr
+* language-typoscript2
 
 
 
