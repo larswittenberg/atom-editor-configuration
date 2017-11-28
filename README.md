@@ -24,6 +24,7 @@
 * atom-beautify
 * docblockr
 * language-typoscript2
+* linter-eslint
 
 
 
