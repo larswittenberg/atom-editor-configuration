@@ -10,21 +10,24 @@
 ## Packages
 
 ### Installed Community Packages
+* atom-beautify
+* atom-jade
 * atom-wrap-in-tag
+* docblockr
 * editorconfig
 * emmet
 * file-icons
+* highlight-selected
+* intentions
 * language-apache
 * language-babel
 * language-mjml
+* language-typoscript2
+* linter
+* linter-eslint
+* linter-ui-default
 * markdown-preview-plus
 * mjml-preview
-* atom-jade
-* highlight-selected
-* atom-beautify
-* docblockr
-* language-typoscript2
-* linter-eslint
 
 
 
