@@ -4,7 +4,7 @@
 [https://atom.io/](https://atom.io/)
 
 ## Font
-[Hack | A typeface designed for source code](http://sourcefoundry.org/hack/)
+[Hack | A typeface designed for source code / Patched fonts for Powerline users](https://github.com/powerline/fonts/tree/master/Hack)
 
 
 ## Packages
