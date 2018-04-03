@@ -13,6 +13,7 @@
 * atom-beautify
 * atom-jade
 * atom-wrap-in-tag
+* busy-signal
 * docblockr
 * editorconfig
 * emmet
