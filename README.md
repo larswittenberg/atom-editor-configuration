@@ -27,6 +27,7 @@
 * linter
 * linter-eslint
 * linter-ui-default
+* linter-mjml
 * markdown-preview-plus
 * mjml-preview
 
