@@ -16,6 +16,7 @@
     showIndentGuide: true
     showInvisibles: true
     softWrap: true
+    tabLength: 4
   "exception-reporting":
     userId: "555d0d3d-6058-4b8c-ba94-fb1ae803276e"
   "file-icons": {}
@@ -25,3 +26,6 @@
     themeColor: "Steel"
   welcome:
     showOnStartup: false
+".editorconfig.source":
+  editor:
+    tabLength: 4
