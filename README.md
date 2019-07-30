@@ -30,6 +30,7 @@
 * linter-mjml
 * markdown-preview-plus
 * mjml-preview
+* prettier-atom
 
 
 
