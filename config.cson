@@ -1,7 +1,11 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "91a61006-c419-4f77-8362-e232a6e6ac96"
   core:
     disabledPackages: [
       "wrap-guide"
+      "markdown-preview"
     ]
     openEmptyEditorOnStart: false
     projectHome: "/Users/lars.wittenberg/websites"
@@ -10,6 +14,10 @@
       "one-dark-ui"
       "cobalt2-syntax"
     ]
+    customFileTypes:
+      'source.js.jsx': [
+        'js'
+      ]
   editor:
     fontFamily: "Hack"
     fontSize: 15
@@ -19,12 +27,21 @@
   "exception-reporting":
     userId: "555d0d3d-6058-4b8c-ba94-fb1ae803276e"
   "file-icons": {}
+  "language-babel":
+    autoIndentJSX: true
+    emmetCSSAutocomplete: true
+  "linter-ui-default":
+    panelHeight: 149
+    showPanel: true
+  "markdown-preview-plus":
+    useGitHubStyle: true
+  "mjml-preview":
+    triggerOnSave: false
   "seti-ui":
     compactView: true
     disableAnimations: true
     themeColor: "Steel"
+  "tree-view":
+    hideIgnoredNames: true
   welcome:
     showOnStartup: false
-".editorconfig.source":
-  editor:
-    tabLength: 4
