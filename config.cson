@@ -37,6 +37,11 @@
     useGitHubStyle: true
   "mjml-preview":
     triggerOnSave: false
+  "prettier-atom":
+    formatOnSaveOptions:
+      enabled: true
+      isDisabledIfNoConfigFile: true
+      showInStatusBar: true
   "seti-ui":
     compactView: true
     disableAnimations: true
